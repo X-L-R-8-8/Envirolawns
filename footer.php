@@ -1,29 +1,16 @@
 <br>
+  <link rel="stylesheet" type="text/css" href="style.css">
 
 <div class="row">
 
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#ccc;">
-    <h2>Column 3</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-
+ 
 <div class="footer-section" id="footer">
 
   <h1>Contact me</h1>
 
 <b>
 <div class="social">
-  <a href ="https://mcdonalds.co.nz/menu" target="_blank"><span class="fab fa-facebook-f fa-lg" style="color: white"></a></span>@Envirolawns <br> <br>
+  <a href ="https://mcdonalds.co.nz/menu" target="_blank"><span class="fab fa-facebook-f fa-lg" style="color: white"></span></a>@Envirolawns <br> <br>
 
   <a href ="#" target="_blank"><span class="fas fa-envelope fa-lg" style="color:white"></span></a>  Envirolawnz1@gmail.com <br><br>
 
@@ -60,6 +47,8 @@ If you have any questions or business inquires contact me via my email.
 </div>
 
 </div>
+
+
 <!--/ footer backup icons
 
   <img src="images/footer/gmail_logo.png" width="50" alt="gmail logo"/>  envirolawnz1@gmail.com  
@@ -69,4 +58,3 @@ If you have any questions or business inquires contact me via my email.
   <img src="images/footer/phone_icon.png" width="30" alt="phone icon"/> 021 026 739 87
   -->
 
-</html>

@@ -1,3 +1,5 @@
+  <link rel="stylesheet" type="text/css" href="style.css">
+
 <div class="header">
 
 
@@ -7,11 +9,11 @@
 </div>
 	<div class="topnav">
 
-		<a href="#home">Home</a>
-		<a href="#about">About me</a>
-		<a href="#services">Services</a>
+		<a href="index.php">Home</a>
+		<a href="about.php">About me</a>
+		<a href="services.php">Services</a>
 		<a href="gallery.php">Gallery</a>
-		<a href="#testimonials">Testimonials</a>
+		<a href="testimonials.php">Testimonials</a>
     <a href="#footer">Contact me</a>
 
 	</div>

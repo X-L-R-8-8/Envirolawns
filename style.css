@@ -2,10 +2,13 @@
 body { 
 font-family:helvetica;
 font-size: 18px;
-padding: 10px;
-margin: 0;
-}
+padding: 50px;
+margin: auto; 
 
+}
+text{
+    padding: 50px;
+}
 /* Style the header */
 .header {
   padding: 80px;
@@ -19,10 +22,12 @@ margin: 0;
   font-size: 40px;
 }
 
+
 h1 {
   text-align:center;
   font-size: 40px;
 }
+
 
 html{
 scroll-behavior:smooth;
@@ -73,42 +78,30 @@ scroll-behavior:smooth;
 }
 
 
-
-
-.home-section {
-  background: #39E327;
+div.gallery {
+  border: 1px solid #ccc;
 }
 
-.about-section {
-  /*--
-  height:100vh;
-  display: flex;
-  align-items: center; --*/
+div.gallery:hover {
+  border: 1px solid #777;
 }
 
-.gallery-section {
-  border-radius: 10px;
-  border-color: black;
-  border-spacing: 10px;
-
+div.gallery img {
+  width: 100%;
+  height: auto;
 }
 
-.before-side {
-    float: left;
-    width: 48%;
-    margin: 1%;
-}
-.after-side {
-    word-break: break-all;
+div.desc {
+  padding: 15px;
+  text-align: center;
 }
 
-.testimonials-section {
-background-color:whitesmoke;
-background-size: 100% 100%;
+* {
+  box-sizing: border-box;
 }
 
 
-/*---- End of footer ----*/
+
 .footer-section {
    left: 0;
    bottom: 0px;
